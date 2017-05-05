@@ -1,0 +1,18 @@
+c:\users\robsono\documents\visual studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.exe.config
+c:\users\robsono\documents\visual studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.exe
+c:\users\robsono\documents\visual studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.pdb
+c:\users\robsono\documents\visual studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.csprojResolveAssemblyReference.cache
+c:\users\robsono\documents\visual studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.exe
+c:\users\robsono\documents\visual studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.pdb
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.exe.config
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.exe
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.pdb
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.exe
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.pdb
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.csprojResolveAssemblyReference.cache
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Visual Studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.exe.config
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Visual Studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.exe
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Visual Studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.pdb
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Visual Studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.exe
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Visual Studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\bin\Debug\Jogorpg_orientado_a_objeto.pdb
+C:\Users\robson.DESKTOP-5OF6TDA\Documents\Visual Studio 2015\Projects\Jogorpg_orientado_a_objeto\Jogorpg_orientado_a_objeto\obj\Debug\Jogorpg_orientado_a_objeto.csprojResolveAssemblyReference.cache
