@@ -38,14 +38,17 @@ namespace Jogorpg_orientado_a_objeto
                 Console.WriteLine("Voce escolheu machado");
 
             }
-            if (tipoArma == 2)
+            else if (tipoArma == 2)
             {
                 defesa = 5;
                 ataque = 15;
                 Console.WriteLine("Voce escolheu espada");
 
             }
-
+            else 
+            {
+              Console.WriteLine("Arma não existe");
+            }
          
 
         }
